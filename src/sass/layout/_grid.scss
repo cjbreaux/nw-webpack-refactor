@@ -1,0 +1,6 @@
+.grid-container {
+  display: grid;
+  grid-template: repeat(12,1fr) / repeat(12, 1fr);
+  width: 98vw;
+  height: 98vh;
+}
